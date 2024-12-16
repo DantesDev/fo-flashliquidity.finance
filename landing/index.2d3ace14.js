@@ -65699,7 +65699,7 @@ PERFORMANCE OF THIS SOFTWARE.
             _s();
             const [hoverLogo, setHoverLogo] = (0, _react.useState)(false);
             function go() {
-              window.open("https://twitter.com/flashliquidity");
+              window.open("https://x.com");
             }
             return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(
               (0, _icon.FooterIcon1Hover),
@@ -65727,7 +65727,7 @@ PERFORMANCE OF THIS SOFTWARE.
             _s1();
             const [hoverLogo, setHoverLogo] = (0, _react.useState)(false);
             function go() {
-              window.open("https://t.me/flashliquidity");
+              window.open("https://t.me");
             }
             return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(
               (0, _icon.FooterIcon2Hover),
@@ -66384,7 +66384,9 @@ PERFORMANCE OF THIS SOFTWARE.
           _c1 = NetworkIcon;
           const Dex = () => {
             function learnMore() {
-              window.open("https://app-flashliquidity-finance.vercel.app/#/swap");
+              window.open(
+                "https://app-flashliquidity-finance.vercel.app/#/swap"
+              );
             }
             function addLiquidity() {
               window.open(
@@ -66882,7 +66884,9 @@ PERFORMANCE OF THIS SOFTWARE.
           var _icon = require("~src/components/layoutIcon/Icon");
           const SBP = () => {
             function goToSBP() {
-              window.open("https://app-flashliquidity-finance.vercel.app/#/selfbalancing");
+              window.open(
+                "https://app-flashliquidity-finance.vercel.app/#/selfbalancing"
+              );
             }
             return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(
               "div",
