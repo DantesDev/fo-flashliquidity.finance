@@ -33672,7 +33672,7 @@ object-assign
           var _footerLink = require("~src/components/common/FooterLink");
           const Footer = () => {
             function openApp() {
-              window.open("https://app.flashliquidity.finance/");
+              window.open("https://app-flashliquidity-finance.vercel.app/");
             }
             return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(
               "div",
@@ -37157,7 +37157,7 @@ object-assign
             _s1();
             const dexStats = (0, _home.useStatsDex)();
             function goRefApp() {
-              window.open("https://app.flashliquidity.finance/");
+              window.open("https://app-flashliquidity-finance.vercel.app/");
             }
             function addDotsToNumber(num) {
               return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".");
@@ -65501,7 +65501,7 @@ PERFORMANCE OF THIS SOFTWARE.
               else setFloat(false);
             }
             function openApp() {
-              window.open("https://app.flashliquidity.finance/");
+              window.open("https://app-flashliquidity-finance.vercel.app/");
             }
             return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(
               "div",
@@ -66384,11 +66384,11 @@ PERFORMANCE OF THIS SOFTWARE.
           _c1 = NetworkIcon;
           const Dex = () => {
             function learnMore() {
-              window.open("https://app.flashliquidity.finance/#/swap");
+              window.open("https://app-flashliquidity-finance.vercel.app/#/swap");
             }
             function addLiquidity() {
               window.open(
-                "https://app.flashliquidity.finance/#/add/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+                "https://app-flashliquidity-finance.vercel.app/#/add/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
               );
             }
             return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(
@@ -66882,7 +66882,7 @@ PERFORMANCE OF THIS SOFTWARE.
           var _icon = require("~src/components/layoutIcon/Icon");
           const SBP = () => {
             function goToSBP() {
-              window.open("https://app.flashliquidity.finance/#/selfbalancing");
+              window.open("https://app-flashliquidity-finance.vercel.app/#/selfbalancing");
             }
             return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(
               "div",
